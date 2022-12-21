@@ -1,5 +1,5 @@
 def reverse(number) :
-""" This function reverses the digits of number """
+    """ This function reverses the digits of number """
     reverse_number = 0
     n = number
 
